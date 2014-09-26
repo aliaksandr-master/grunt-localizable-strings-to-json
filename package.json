@@ -1,0 +1,48 @@
+{
+	"name": "grunt-localizable-strings-to-json",
+	"description": "Grunt plugin for convert Ios Localizeble.strings format to JSON format",
+	"version": "1.0.0",
+	"homepage": "https://github.com/aliaksandr-pasynkau/grunt-localizable-strings-to-json",
+	"author": {
+		"name": "Aliaksandr Pasynkau",
+		"email": "alxe.master@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aliaksandr-pasynkau/grunt-localizable-strings-to-json.git"
+	},
+	"bugs": {
+		"url" : "https://github.com/aliaksandr-pasynkau/grunt-localizable-strings-to-json/issues"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/aliaksandr-pasynkau/grunt-localizable-strings-to-json/blob/master/LICENSE-MIT"
+		}
+	],
+	"engines": {
+		"node" : ">= 0.8.0"
+	},
+	"scripts": {
+		"test" : "grunt test"
+	},
+	"devDependencies": {
+		"grunt-contrib-jshint": "^0.9.2",
+		"grunt-contrib-clean": "^0.5.0",
+		"grunt-contrib-nodeunit": "^0.3.3",
+		"grunt": "~0.4.5"
+	},
+	"peerDependencies": {
+		"grunt": "~0.4.5"
+	},
+	"keywords": [
+		"gruntplugin",
+		"strings",
+		"format",
+		"json",
+		"ios",
+		"apple",
+		"2json",
+		"convertion"
+	]
+}

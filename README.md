@@ -1,3 +1,10 @@
+[![npm](http://img.shields.io/npm/v/grunt-localizable-strings-to-json.svg?style=flat-square)](https://www.npmjs.com/package/grunt-localizable-strings-to-json)
+[![npm](http://img.shields.io/npm/l/grunt-localizable-strings-to-json.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![Dependency Status](https://david-dm.org/aliaksandr-pasynkau/grunt-localizable-strings-to-json.svg?style=flat-square)](https://david-dm.org/aliaksandr-pasynkau/grunt-localizable-strings-to-json)
+[![devDependency Status](https://david-dm.org/aliaksandr-pasynkau/grunt-localizable-strings-to-json/dev-status.svg?style=flat-square)](https://david-dm.org/aliaksandr-pasynkau/grunt-localizable-strings-to-json#info=devDependencies)
+[![Build Status](https://travis-ci.org/aliaksandr-pasynkau/grunt-localizable-strings-to-json.svg?branch=master&style=flat-square)](https://travis-ci.org/aliaksandr-pasynkau/grunt-localizable-strings-to-json)
+[![Coverage Status](https://img.shields.io/coveralls/aliaksandr-pasynkau/grunt-localizable-strings-to-json.svg?style=flat-square)](https://coveralls.io/r/aliaksandr-pasynkau/grunt-localizable-strings-to-json?branch=master)
+
 # grunt-localizable-strings-to-json
 
 > Grunt plugin for convert Ios Localizeble.strings format to JSON format
